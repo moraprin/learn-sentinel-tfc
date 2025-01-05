@@ -16,7 +16,7 @@ terraform {
     organization = "<maprin-org>"
 
     workspaces {
-      name = "sentinel-example"
+      name = "learn-sentinel-tfc"
     }
   }
 
